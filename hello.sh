@@ -1,6 +1,4 @@
 #!/bin/bash 
-
-
-echo "HELLO World"[D[D[D[D[D[D
-
-exit
+val_to_print=$1
+ echo $val_to_print
+ exit 
