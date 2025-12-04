@@ -1,6 +1,8 @@
 #!/bin/bash 
 
 
-echo "HELLO World"[D[D[D[D[D[D
 
+#Debut du script
+echo "Helllo World"
+#Fin du script
 exit
